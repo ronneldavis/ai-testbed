@@ -12,4 +12,4 @@ Make sure you have pip and virtualenv installed. In a terminal run ``virtualenv 
 You may have to give the training script executable permissions. You can do that by entering ``chmod +x train.sh``. To run the training script, run ``./train.sh``. This will train your network and give the accuracy following an evaluation.
 
 ## Testing
-You can now test the dataset with images of your choosing. ENter ``python test.py --image test.jpg`` to run a saomple testcase. 
+You can now test the dataset with images of your choosing. Enter ``python test.py --image test.jpg`` to run a sample testcase. 
